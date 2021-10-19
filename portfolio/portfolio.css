@@ -1,0 +1,26 @@
+/*css documents*/
+body
+{
+    padding: 0px 0px;
+    margin: 0px 0px;
+    font-size: 18px;
+    text-align: left;
+    font-family: arial,helvetica,sans-serif;
+}
+.noMargin
+{
+    height: 500px
+}
+img
+{
+    width: 5px;
+    height: 5px;
+}
+.style
+{
+    font-size:50;
+            color:rgb(0, 0, 0);
+        text-align: center;
+    font-family:-apple-system
+}
+
